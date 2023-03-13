@@ -1,10 +1,8 @@
 # DIABETES-PREDICTION-USING-MACHINE-LEARNING
-Diabetes\_Prediction
-
 -----
 The aim of this project is to predict whether a person is diabetic or not using a dataset from kaggle using machine learning.
 
-Libraries used:-
+# Libraries used:-
 
 -----
 - **Numpy**
@@ -50,7 +48,7 @@ Scikit-learn (Sklearn) is the most useful and robust library for machine learnin
 - **svm-** Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection. It is used in applications like handwriting recognition, intrusion detection, face detection, email classification, gene classification, and in web pages.
 - **accuracy\_score-** This function computes subset accuracy: the set of labels predicted for a sample must exactly match the corresponding set of labels in y\_true.
 
-Data Analysis
+# Data Analysis
 
 -----
 - Based on the number of pregnancies
@@ -65,7 +63,7 @@ Data Analysis
 
 ![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.008.png)
 
-Model Analysis
+# Model Analysis
 
 -----
 - With an accuracy score of 78.66% on training data and an accuracy of 77.27% on test data, our model will predict whether you are diabetic or not.
@@ -75,6 +73,7 @@ Model Analysis
 ![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.010.png)
 
 
-Know Diabetes, Fight Diabetes-----
+# Know Diabetes, Fight Diabetes
+-----
 
 ![](Aspose.Words.edf1bc73-73b6-42dd-945e-6a6bf02a7c4d.011.png)
